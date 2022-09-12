@@ -1,10 +1,12 @@
 {
-  "homepage": "https://mateogonzalezamortegui.github.io/React-shop/",
+  "homepage": "http://mateogonzalezamortegui.github.io/React-shop/",
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react eshop",
   "main": "src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
     "build": "webpack --mode production"
@@ -36,6 +38,7 @@
     "style-loader": "^3.3.1",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.10.0"
+    "webpack-dev-server": "^4.10.0",
+    "gh-pages": "^2.1.1"
   }
 }
