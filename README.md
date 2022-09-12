@@ -4,7 +4,9 @@ Store online with layout HTML, CSS, JS , React, SASS, WebPack, NPM, Babel and ma
 View page => https://mateogonzalezamortegui.github.io/React-shop/
 
 ## Desktop View
-![image](https://user-images.githubusercontent.com/108773631/185835740-05a7fbf6-4229-4a05-b9f8-529cea9a6cdc.png)
+![image](https://user-images.githubusercontent.com/108773631/189566995-a131b8ec-d1fa-4181-99b5-33c62c942f00.png)
+
 
 ## Version Mobile
-![image](https://user-images.githubusercontent.com/108773631/185837002-819ed106-8f52-40dc-8558-2e42bc30f6e8.png)
+![image](https://user-images.githubusercontent.com/108773631/189567089-1a30c7e1-aef7-4663-a783-1af89000e260.png)
+
